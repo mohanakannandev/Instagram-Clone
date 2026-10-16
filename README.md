@@ -10,6 +10,18 @@ A simple Instagram-inspired web application built with React and Vite.
 - User profile section
 - Suggestions sidebar
 
+## Screenshots
+
+### Instagram Frontend
+
+![Instagram Frontend](screenshots/insta-page.png)
+
+### Backend API
+
+![Backend API](screenshots/backend.png)
+
+
+
 ## Technologies Used
 
 - React.js
