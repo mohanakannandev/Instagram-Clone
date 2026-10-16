@@ -14,7 +14,7 @@ A simple Instagram-inspired web application built with React and Vite.
 
 ### Instagram Frontend
 
-![Instagram Frontend](screenshots/insta-page.png)
+![Instagram Frontend](screenshots/Insta-page.png)
 
 ### Backend API
 
