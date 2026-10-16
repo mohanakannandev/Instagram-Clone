@@ -1,0 +1,128 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "username": "travel_with_me",
+      "profilePic": "/assets/user5.jpg",
+      "postImage": "/assets/post1.jpeg",
+      "caption": "Exploring the mountains 🏔️ #nature #adventure",
+      "likes": 1024,
+      "comments": [
+        {
+          "username": "wanderlust_92",
+          "comment": "Breathtaking view!"
+        },
+        {
+          "username": "nature_lover",
+          "comment": "Where is this place?"
+        }
+      ],
+      "timestamp": "2025-07-05T12:30:00Z"
+    },
+    {
+      "id": "2",
+      "username": "foodie_diary",
+      "profilePic": "/assets/user2.jpg",
+      "postImage": "/assets/post2.jpeg",
+      "caption": "Best ramen in town 🍜😋 #foodie",
+      "likes": 837,
+      "comments": [
+        {
+          "username": "chef_annie",
+          "comment": "Looks so yummy!"
+        }
+      ],
+      "timestamp": "2025-07-04T18:10:00Z"
+    },
+    {
+      "id": "3",
+      "username": "daily_fit",
+      "profilePic": "/assets/user3.jpg",
+      "postImage": "/assets/post3.jpeg",
+      "caption": "Morning workouts keep me focused 💪 #fitnessmotivation",
+      "likes": 1450,
+      "comments": [
+        {
+          "username": "gym_rat",
+          "comment": "Respect your grind!"
+        },
+        {
+          "username": "healthy_life",
+          "comment": "Inspiring 👏"
+        }
+      ],
+      "timestamp": "2025-07-03T06:45:00Z"
+    }
+  ],
+  "profile": {
+    "id": 1,
+    "username": "leo_das",
+    "profilePic": "/assets/user2.jpg"
+  },
+  "suggestions": [
+    {
+      "id": "1",
+      "username": "leo_fit",
+      "profilePic": "/assets/user3.jpg"
+    },
+    {
+      "id": "2",
+      "username": "leo",
+      "profilePic": "/assets/user2.jpg"
+    },
+    {
+      "id": "3",
+      "username": "das_fit",
+      "profilePic": "/assets/user3.jpg"
+    }
+  ],
+  "story": [
+    {
+      "id": "1",
+      "username": "travel_with_me",
+      "profilePic": "/assets/user2.jpg",
+      "image": "/assets/story1.jpg"
+    },
+    {
+      "id": "2",
+      "username": "foodie_diary",
+      "profilePic": "/assets/user2.jpg",
+      "image": "/assets/story2.jpg"
+    },
+    {
+      "id": "3",
+      "username": "gym_fit",
+      "profilePic": "/assets/user3.jpg",
+      "image": "/assets/story3.jpg"
+    },
+    {
+      "id": "4",
+      "username": "daily_fit",
+      "profilePic": "/assets/user4.jpg",
+      "image": "/assets/story1.jpg"
+    }
+  ],
+  "followers": [
+    {
+      "id": "1",
+      "username": "travel_with_me",
+      "profilePic": "/assets/user1.jpg"
+    },
+    {
+      "id": "3",
+      "username": "leo_fit"
+    },
+    {
+      "id": "2",
+      "username": "leo"
+    },
+    {
+      "id": "1",
+      "username": "leo_fit"
+    },
+    {
+      "id": "2",
+      "username": "leo"
+    }
+  ]
+}
